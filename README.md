@@ -11,21 +11,17 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://user-images.githubusercontent.com/77629060/181176990-c1fce8f2-935a-459f-9125-3cb06c31c0a6.png)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+![image](https://user-images.githubusercontent.com/77629060/181176784-cf4c6d5c-4497-4062-a878-e965df4e380d.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+![image](https://user-images.githubusercontent.com/77629060/181177398-59774f8a-774f-412b-b662-ad27dda3622b.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![image](https://user-images.githubusercontent.com/77629060/181177565-4ea5bb5f-fc95-4497-9c4b-22105770081c.png)
 
-## Learn More
+![image](https://user-images.githubusercontent.com/77629060/181177643-c951eeb4-b749-4e14-a8d2-0c455a81d7bc.png)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
